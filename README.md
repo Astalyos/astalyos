@@ -1,5 +1,22 @@
 # 💫 About Me:
-## 👋 Hey there! I'm [Your Name]<br><br>I'm a **Laravel Developer** with a passion for crafting dynamic and scalable web applications. I specialize in building intuitive user interfaces and robust backend systems using **Laravel**, **Livewire**, and **Alpine.js**. <br><br>### 🛠️ Tech Stack<br>- **Backend**: Laravel, Symfony, PHP<br>- **Frontend**: Livewire, Alpine.js, Vue.js<br>- **Database**: MySQL, Firebase<br>- **APIs**: RESTful APIs, OpenAI, third-party API integrations<br>- **Other Tools**: Node.js, Python, Mocks for testing<br><br>### 🌟 What I Do<br>- 💻 **Backend Development**: Building scalable and efficient backend systems with Laravel and Symfony.<br>- 🌐 **API Integrations**: Implementing APIs like **OpenAI** and external services to enhance app functionality.<br>- 🔥 **Cloud & Database**: Managing real-time data and authentication with **Firebase**, and solid experience with **MySQL** for relational databases.<br>- 🧪 **Testing with Mocks**: Leveraging mocks for unit tests, ensuring my apps are reliable and maintainable.<br>  <br>I've also worked with **Node.js**, **Vue.js**, and **Python**, continuously expanding my skill set to stay ahead in the fast-evolving world of web development. <br><br>I'm always open to exciting projects and collaborations! Feel free to explore my repositories and reach out if you want to connect 🚀.<br>
+## 👋 Hey there! I'm Gaëtan<br><br>
+I'm a **Laravel Developer** with a passion for crafting dynamic and scalable web applications. 
+I specialize in building intuitive user interfaces and robust backend systems using **Laravel**, **Livewire**, and **Alpine.js**. <br><br>
+
+### 🛠️ Tech Stack<br>
+- **Backend**: Laravel, Symfony, PHP<br>
+- **Frontend**: Livewire, Alpine.js, Vue.js<br>
+- **Database**: MySQL, Firebase<br>
+- **APIs**: RESTful APIs, OpenAI, third-party API integrations<br>
+- **Other Tools**: Node.js, Python, Mocks for testing<br><br>
+
+### 🌟 What I Do<br>
+- 💻 **Backend Development**: Building scalable and efficient backend systems with Laravel and Symfony.<br>
+- 🌐 **API Integrations**: Implementing APIs like **OpenAI** and external services to enhance app functionality.<br>
+- 🔥 **Cloud & Database**: Managing real-time data and authentication with **Firebase**, and solid experience with **MySQL** for relational databases.<br>
+- 🧪 **Testing with Mocks**: Leveraging mocks for unit tests, ensuring my apps are reliable and maintainable.<br>
+
+<br>I've also worked with **Node.js**, **Vue.js**, and **Python**, continuously expanding my skill set to stay ahead in the fast-evolving world of web development. <br><br>I'm always open to exciting projects and collaborations! Feel free to explore my repositories and reach out if you want to connect 🚀<br>
 
 
 ## 🌐 Socials:
